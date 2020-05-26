@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pyinstaller = "*"
+
+[packages]
+datetime = "*"
+pyqt5 = "*"
+pandas = "*"
+pyserial = "*"
+openpyxl = "*"
+re = "*"
+plyer = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+run = "python run.py"
+make = "python make.py"
