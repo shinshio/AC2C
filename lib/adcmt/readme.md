@@ -7,3 +7,4 @@
 
 以下のフォルダにdllが保存されるので、x86, x64をそれぞれこのフォルダに格納する。
 
+`C:/Program Files/ADCMT/USB Driver1.6.0/bin`
