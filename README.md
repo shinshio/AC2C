@@ -98,10 +98,7 @@ Python, pipenvがインストールされているPC
 # Author
 
 - shinshio
-- [![TOTEC AMENITY LIMITED](docs/images/logo/totecamenity.png)](https://www.totec.jp/)
-- shintaro.shiono.j4j@densotechno.com
-- In DENSO, since 2014.5.6
-- In charge of Truck
+
 
 # Licence
 
